@@ -79,9 +79,13 @@ To retrieve the data, it wraps the excellent [NewPipe Extractor](https://github.
 <td class="org-left">🇪🇸</td>
 </tr>
 
-
 <tr>
 <td class="org-left"><a href="https://tubo.reallyaweso.me">https://tubo.reallyaweso.me</a></td>
+<td class="org-left">🇩🇪</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://tubo.ducks.party">https://tubo.ducks.party</a></td>
 <td class="org-left">🇩🇪</td>
 </tr>
 </tbody>
